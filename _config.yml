@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rebecca C Vandewalle"
+  name             : "Rebecca C. Vandewalle (Becky)"
   avatar           : "profile.png"
   bio              : "UIUC Geography & GIS PhD Student"
   location         : "Urbana, IL"
-  employer         :
+  employer         : "University of Illinois Urbana Champaign"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1WzQbAgAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Rebecca-Vandewalle"
+  researchgate     : "https://www.researchgate.net/profile/Rebecca-Vandewalle"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/rebecca-vandewalle-59b056a3/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6890-7811"
   pinterest        :
   soundcloud       :
