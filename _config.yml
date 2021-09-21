@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rebecca C. Vandewalle"
 title_separator          : "-"
 name                     : &name "Rebecca C. Vandewalle"
-description              : &description "personal description"
+description              : &description "UIUC Geography & GIS PhD Student"
 url                      : https://beckvalle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "beckvalle/beckvalle.github.io"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &beckvalle
 facebook:
-  username               :
+  username               : &beckvalle
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Rebecca C Vandewalle"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "UIUC Geography & GIS PhD Student"
+  location         : "Urbana, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=1WzQbAgAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Rebecca-Vandewalle"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "beckvalle"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6890-7811"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "beckvalle"
   vine             :
   weibo            :
   xing             :
