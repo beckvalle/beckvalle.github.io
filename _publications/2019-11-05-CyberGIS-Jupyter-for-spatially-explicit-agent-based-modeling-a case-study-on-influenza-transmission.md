@@ -3,7 +3,7 @@ title: "CyberGIS-Jupyter for spatially explicit agent-based modeling: a case stu
 collection: publications
 permalink: /publication/2019-11-05-CyberGIS-Jupyter-for-spatially-explicit-agent-based-modeling-a case-study-on-influenza-transmission
 date: 2015-11-05
-venue: 'GeoSim '19: Proceedings of the 2nd ACM SIGSPATIAL international workshop on geospatial simulation'
+venue: "GeoSim '19: Proceedings of the 2nd ACM SIGSPATIAL international workshop on geospatial simulation"
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3356470.3365531'
 citation: 'Kang, Jeon-Young, Jared Aldstadt, Alexander Michels, Rebecca Vandewalle, and Shaowen Wang. (2019). &quot;CyberGIS-Jupyter for spatially explicit agent-based modeling: a case study on influenza transmission.&quot; <i>GeoSim '19: Proceedings of the 2nd ACM SIGSPATIAL international workshop on geospatial simulation</i>, pp. 32–35, https://doi.org/10.1145/3356470.3365531.'
 ---

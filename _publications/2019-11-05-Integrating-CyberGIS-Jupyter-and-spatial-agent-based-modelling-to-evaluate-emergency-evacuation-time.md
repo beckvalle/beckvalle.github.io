@@ -3,7 +3,7 @@ title: "Integrating CyberGIS-Jupyter and spatial agent-based modelling to evalua
 collection: publications
 permalink: /publication/2019-11-05-Integrating-CyberGIS-Jupyter-and-spatial-agent-based-modelling-to-evaluate-emergency-evacuation-time
 date: 2019-11-05
-venue: 'GeoSim '19: Proceedings of the 2nd ACM SIGSPATIAL international workshop on geospatial simulation'
+venue: "GeoSim '19: Proceedings of the 2nd ACM SIGSPATIAL international workshop on geospatial simulation"
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3356470.3365530'
 citation: 'Vandewalle, Rebecca, Jeon-Young Kang, Dandong Yin, and Shaowen Wang. (2015). &quot;Integrating CyberGIS-Jupyter and spatial agent-based modelling to evaluate emergency evacuation time.&quot; <i>GeoSim '19: Proceedings of the 2nd ACM SIGSPATIAL International Workshop on GeoSpatial Simulation</i>, pp 28–31, https://doi.org/10.1145/3356470.3365530.'
 ---
