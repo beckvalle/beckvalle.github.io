@@ -2,13 +2,12 @@
 title: "A CyberGIS Approach to Spatiotemporally Explicit Uncertainty and Global Sensitivity Analysis for Agent-Based Modeling of Vector-Borne Disease Transmission"
 collection: publications
 permalink: /publication/2020-03-20-A-CyberGIS-approach-to-spatiotemporally-explicit-uncertainty-and-global-sensitivity-analysis-for-agent-based-modeling-of-vector-borne-disease-transmission
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-03-20
 venue: 'Annals of the American Association of Geographers'
 paperurl: 'https://doi.org/10.1080/24694452.2020.1723400'
 citation: 'Kang, Jeon-Young, Jared Aldstadt, Rebecca Vandewalle, Dandong Yin & Shaowen Wang (2020). &quot;A CyberGIS Approach to Spatiotemporally Explicit Uncertainty and Global Sensitivity Analysis for Agent-Based Modeling of Vector-Borne Disease Transmission.&quot; <i>Annals of the American Association of Geographers</i>. 110:6, 1855-1873, DOI: 10.1080/24694452.2020.1723400.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Abstract: Although agent-based models (ABMs) provide an effective means for investigating complex interactions between heterogeneous agents and their environment, they might hinder an improved understanding of phenomena being modeled due to inherent challenges associated with uncertainty in model parameters. This study uses uncertainty analysis and global sensitivity analysis (UA-GSA) to examine the effects of such uncertainty on model outputs. The statistics used in UA-GSA, however, are likely to be affected by the modifiable areal unit problem. Therefore, to examine the scale-varying effects of model inputs, UA-GSA needs to be performed at multiple spatiotemporal scales. Unfortunately, performing comprehensive UA-GSA comes with considerable computational cost. In this article, our cyberGIS-enabled spatiotemporally explicit UA-GSA approach helps to not only resolve the computational burden but also measure dynamic associations between model inputs and outputs. A set of computational and modeling experiments shows that input factors have scale-dependent impacts on modeling output variability. In other words, most of the input factors have relatively large impacts in a certain region but might not influence outcomes in other regions. Furthermore, our spatiotemporally explicit UA-GSA approach sheds light on the effects of input factors on modeling outcomes that are particularly spatially and temporally clustered, such as the occurrence of communicable disease transmission.
 
 [Download paper here](https://www.tandfonline.com/doi/pdf/10.1080/24694452.2020.1723400)
 
