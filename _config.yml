@@ -84,9 +84,8 @@ author:
   avatar           : "rcvandewalle.JPG"
   bio              : "UIUC Geography & GIS PhD Student"
   location         : "Urbana, IL"
-  employer         : "University of Illinois
-  Urbana Champaign"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "U of I Urbana Champaign"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1WzQbAgAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Rebecca-Vandewalle"
@@ -101,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/rebecca-vandewalle-59b056a3/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6890-7811"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "beckvalle"
@@ -188,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  presentations:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -241,6 +243,14 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _presentations
+  - scope:
+      path: ""
+      type: presentations
     values:
       layout: talk
       author_profile: true
