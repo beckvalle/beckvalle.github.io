@@ -190,6 +190,10 @@ collections:
   presentations:
     output: true
     permalink: /:collection/:path/
+  workshops:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -251,6 +255,14 @@ defaults:
   - scope:
       path: ""
       type: presentations
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _workshops
+  - scope:
+      path: ""
+      type: workshops
     values:
       layout: talk
       author_profile: true
