@@ -3,10 +3,10 @@ title: "High School Substitute Teacher"
 collection: teaching
 type: "Virtual undergraduate course"
 permalink: /teaching/2021-summer-Geog-379
-venue: "University of Illinois Urbana Champaign, Geography and GIS"
-date: 2021-06-14 - 2021-08-07
-location: "Urbana, IL"
+venue: "Oak Hills High School"
+date: 2014-08-01
+location: "Cincinnati, OH"
 ---
 
-Lead an online course for 16 students.
+Subbed for courses as needed. Topics included Math, Chemistry, Social Studies, English, Sign Language, Band, and others. Longer term daily substitute position (over 1 month) in Credit recovery to fill in until a new teacher could be hired.
 
