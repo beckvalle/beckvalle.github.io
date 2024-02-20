@@ -191,7 +191,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   workshops:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -265,8 +265,8 @@ defaults:
       type: workshops
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
@@ -278,7 +278,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
