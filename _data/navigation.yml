@@ -19,5 +19,5 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Workshops"
-    url: /workshops/
+  # - title: "Workshops"
+  #   url: /workshops/
