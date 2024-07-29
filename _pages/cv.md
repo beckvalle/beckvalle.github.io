@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Geography, University of Illinois Urbana Champaign, 2017 - 2023 (expected), Advisor: Dr. Shaowen Wang
+* Ph.D in Geography, University of Illinois Urbana Champaign, 2017 - 2025 (expected), Advisor: Dr. Shaowen Wang
 * M.S. in Geographic Information Systems and Archaeology, University of Edinburgh, 2015, Thesis: *The Influence of Signalling upon Milecastle and Turret Positions along Hadrian’s Wall*
 * Post-Baccalaureate Certificate in Classical Languages, University of Pennsylvania, 2014
 * B.A. in Greek and Roman Studies, Rhodes College, 2008-2012
