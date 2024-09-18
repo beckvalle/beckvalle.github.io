@@ -1,5 +1,5 @@
 ---
-title: "Instructor: Geography 379 - Intro to GIS Systems"
+title: "Instructor of Record: Geography 379 - Intro to GIS Systems"
 collection: teaching
 type: "Virtual undergraduate course"
 permalink: /teaching/2021-summer-Geog-379
