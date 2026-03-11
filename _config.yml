@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &beckvalle
 facebook:
   username               : &beckvalle
   app_id                 :
@@ -110,7 +108,6 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "beckvalle"
   vine             :
   weibo            :
   xing             :

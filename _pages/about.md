@@ -29,4 +29,4 @@ BA, Greek and Roman Studies, Rhodes College
 
 
 ![An example ABM run!](/images/example_abm_run_cropped.gif "Evacuation simulation output")
-![Modeling the Camp Fire](/images/camp_fire_simulation.gif "Modeling traffic during the Camp Fire")
+![Modeling the Camp Fire](/images/camp_fire_simulation.png "Modeling traffic during the Camp Fire")
