@@ -56,8 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-bluesky:
-  username               : &beckvalle.bsky.social
 twitter:
   username               : &beckvalle
 facebook:
